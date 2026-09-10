@@ -1,0 +1,12 @@
+﻿
+Iniciando o processamento da fila...
+
+[INFO] EXECUCAO - EXECUCAO_INICIADA: Processamento da fila iniciado.
+[INFO] EXECUCAO - EXECUCAO_FINALIZADA: Processados: 0; concluídos: 0; erros: 0; ignorados por idempotência: 8.
+
+Resumo da execução
+Itens processados: 0
+Itens concluídos: 0
+Itens com erro: 0
+Itens ignorados por já estarem concluídos: 8
+Itens bloqueados com erro anterior: 4

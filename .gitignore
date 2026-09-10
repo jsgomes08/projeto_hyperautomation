@@ -1,0 +1,18 @@
+
+# Arquivos compilados do Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Configurações e segredos
+.env
+.vscode/
+
+# Backups de testes anteriores
+evidencias/backup_*/
+
+# Logs antigos
+logs/execucao_anterior.log

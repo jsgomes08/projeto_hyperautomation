@@ -1,0 +1,40 @@
+﻿
+Iniciando o processamento da fila...
+
+[INFO] EXECUCAO - EXECUCAO_INICIADA: Processamento da fila iniciado.
+[INFO] IMP-001 - ITEM_INICIADO: Processamento do item iniciado.
+[INFO] IMP-001 - ITEM_CONCLUIDO: Quantidades conferidas com sucesso.
+[INFO] IMP-002 - ITEM_INICIADO: Processamento do item iniciado.
+[WARNING] IMP-002 - DIVERGENCIA_ENCONTRADA: Divergência encontrada. Quantidade informada: 20; quantidade encontrada: 18.
+[INFO] IMP-003 - ITEM_INICIADO: Processamento do item iniciado.
+[INFO] IMP-003 - ITEM_CONCLUIDO: Quantidades conferidas com sucesso.
+[INFO] IMP-004 - ITEM_INICIADO: Processamento do item iniciado.
+[INFO] IMP-004 - ITEM_CONCLUIDO: Quantidades conferidas com sucesso.
+[INFO] IMP-005 - ITEM_INICIADO: Processamento do item iniciado.
+[WARNING] IMP-005 - DIVERGENCIA_ENCONTRADA: Divergência encontrada. Quantidade informada: 8; quantidade encontrada: 6.
+[INFO] IMP-006 - ITEM_INICIADO: Processamento do item iniciado.
+[INFO] IMP-006 - ITEM_CONCLUIDO: Quantidades conferidas com sucesso.
+[INFO] IMP-007 - ITEM_INICIADO: Processamento do item iniciado.
+[INFO] IMP-007 - ITEM_CONCLUIDO: Quantidades conferidas com sucesso.
+[INFO] IMP-008 - ITEM_INICIADO: Processamento do item iniciado.
+[WARNING] IMP-008 - DIVERGENCIA_ENCONTRADA: Divergência encontrada. Quantidade informada: 24; quantidade encontrada: 22.
+[INFO] IMP-009 - ITEM_INICIADO: Processamento do item iniciado.
+[INFO] IMP-009 - ITEM_CONCLUIDO: Quantidades conferidas com sucesso.
+[INFO] IMP-010 - ITEM_INICIADO: Processamento do item iniciado.
+[WARNING] IMP-010 - DIVERGENCIA_ENCONTRADA: Divergência encontrada. Quantidade informada: 18; quantidade encontrada: 17.
+[INFO] IMP-011 - ITEM_INICIADO: Processamento do item iniciado.
+[INFO] IMP-011 - ITEM_CONCLUIDO: Quantidades conferidas com sucesso.
+[INFO] IMP-012 - ITEM_INICIADO: Processamento do item iniciado.
+[INFO] IMP-012 - ITEM_CONCLUIDO: Quantidades conferidas com sucesso.
+[CRITICAL] EXECUCAO - ALERTA_CRITICO: Foram encontrados 4 itens com erro. Verificação humana necessária.
+
+ALERTA SIMULADO
+Foram encontrados 4 itens com erro. Verificação humana necessária.
+[INFO] EXECUCAO - EXECUCAO_FINALIZADA: Processados: 12; concluídos: 8; erros: 4; ignorados por idempotência: 0.
+
+Resumo da execução
+Itens processados: 12
+Itens concluídos: 8
+Itens com erro: 4
+Itens ignorados por já estarem concluídos: 0
+Itens bloqueados com erro anterior: 0

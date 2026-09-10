@@ -1,0 +1,10 @@
+test_idempotencia (test_bot.TestBot.test_idempotencia)
+Executa o bot duas vezes em uma fila temporária ... ok
+test_item_com_divergencia (test_bot.TestBot.test_item_com_divergencia) ... ok
+test_item_com_quantidades_iguais (test_bot.TestBot.test_item_com_quantidades_iguais) ... ok
+test_quantidade_negativa (test_bot.TestBot.test_quantidade_negativa) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.033s
+
+OK

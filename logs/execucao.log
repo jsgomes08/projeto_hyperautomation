@@ -1,0 +1,58 @@
+{"timestamp": "2026-09-10T06:13:59Z", "nivel": "INFO", "item_id": "EXECUCAO", "evento": "EXECUCAO_INICIADA", "mensagem": "Processamento da fila iniciado."}
+{"timestamp": "2026-09-10T06:13:59Z", "nivel": "INFO", "item_id": "IMP-001", "evento": "ITEM_INICIADO", "mensagem": "Processamento do item iniciado."}
+{"timestamp": "2026-09-10T06:13:59Z", "nivel": "INFO", "item_id": "IMP-001", "evento": "ITEM_CONCLUIDO", "mensagem": "Quantidades conferidas com sucesso."}
+{"timestamp": "2026-09-10T06:13:59Z", "nivel": "INFO", "item_id": "IMP-002", "evento": "ITEM_INICIADO", "mensagem": "Processamento do item iniciado."}
+{"timestamp": "2026-09-10T06:13:59Z", "nivel": "WARNING", "item_id": "IMP-002", "evento": "DIVERGENCIA_ENCONTRADA", "mensagem": "Divergência encontrada. Quantidade informada: 20; quantidade encontrada: 18."}
+{"timestamp": "2026-09-10T06:13:59Z", "nivel": "INFO", "item_id": "IMP-003", "evento": "ITEM_INICIADO", "mensagem": "Processamento do item iniciado."}
+{"timestamp": "2026-09-10T06:13:59Z", "nivel": "INFO", "item_id": "IMP-003", "evento": "ITEM_CONCLUIDO", "mensagem": "Quantidades conferidas com sucesso."}
+{"timestamp": "2026-09-10T06:13:59Z", "nivel": "INFO", "item_id": "IMP-004", "evento": "ITEM_INICIADO", "mensagem": "Processamento do item iniciado."}
+{"timestamp": "2026-09-10T06:13:59Z", "nivel": "INFO", "item_id": "IMP-004", "evento": "ITEM_CONCLUIDO", "mensagem": "Quantidades conferidas com sucesso."}
+{"timestamp": "2026-09-10T06:13:59Z", "nivel": "INFO", "item_id": "IMP-005", "evento": "ITEM_INICIADO", "mensagem": "Processamento do item iniciado."}
+{"timestamp": "2026-09-10T06:13:59Z", "nivel": "WARNING", "item_id": "IMP-005", "evento": "DIVERGENCIA_ENCONTRADA", "mensagem": "Divergência encontrada. Quantidade informada: 8; quantidade encontrada: 6."}
+{"timestamp": "2026-09-10T06:13:59Z", "nivel": "INFO", "item_id": "IMP-006", "evento": "ITEM_INICIADO", "mensagem": "Processamento do item iniciado."}
+{"timestamp": "2026-09-10T06:13:59Z", "nivel": "INFO", "item_id": "IMP-006", "evento": "ITEM_CONCLUIDO", "mensagem": "Quantidades conferidas com sucesso."}
+{"timestamp": "2026-09-10T06:13:59Z", "nivel": "INFO", "item_id": "IMP-007", "evento": "ITEM_INICIADO", "mensagem": "Processamento do item iniciado."}
+{"timestamp": "2026-09-10T06:13:59Z", "nivel": "INFO", "item_id": "IMP-007", "evento": "ITEM_CONCLUIDO", "mensagem": "Quantidades conferidas com sucesso."}
+{"timestamp": "2026-09-10T06:13:59Z", "nivel": "INFO", "item_id": "IMP-008", "evento": "ITEM_INICIADO", "mensagem": "Processamento do item iniciado."}
+{"timestamp": "2026-09-10T06:13:59Z", "nivel": "WARNING", "item_id": "IMP-008", "evento": "DIVERGENCIA_ENCONTRADA", "mensagem": "Divergência encontrada. Quantidade informada: 24; quantidade encontrada: 22."}
+{"timestamp": "2026-09-10T06:13:59Z", "nivel": "INFO", "item_id": "IMP-009", "evento": "ITEM_INICIADO", "mensagem": "Processamento do item iniciado."}
+{"timestamp": "2026-09-10T06:13:59Z", "nivel": "INFO", "item_id": "IMP-009", "evento": "ITEM_CONCLUIDO", "mensagem": "Quantidades conferidas com sucesso."}
+{"timestamp": "2026-09-10T06:13:59Z", "nivel": "INFO", "item_id": "IMP-010", "evento": "ITEM_INICIADO", "mensagem": "Processamento do item iniciado."}
+{"timestamp": "2026-09-10T06:13:59Z", "nivel": "WARNING", "item_id": "IMP-010", "evento": "DIVERGENCIA_ENCONTRADA", "mensagem": "Divergência encontrada. Quantidade informada: 18; quantidade encontrada: 17."}
+{"timestamp": "2026-09-10T06:13:59Z", "nivel": "INFO", "item_id": "IMP-011", "evento": "ITEM_INICIADO", "mensagem": "Processamento do item iniciado."}
+{"timestamp": "2026-09-10T06:13:59Z", "nivel": "INFO", "item_id": "IMP-011", "evento": "ITEM_CONCLUIDO", "mensagem": "Quantidades conferidas com sucesso."}
+{"timestamp": "2026-09-10T06:13:59Z", "nivel": "INFO", "item_id": "IMP-012", "evento": "ITEM_INICIADO", "mensagem": "Processamento do item iniciado."}
+{"timestamp": "2026-09-10T06:13:59Z", "nivel": "INFO", "item_id": "IMP-012", "evento": "ITEM_CONCLUIDO", "mensagem": "Quantidades conferidas com sucesso."}
+{"timestamp": "2026-09-10T06:13:59Z", "nivel": "CRITICAL", "item_id": "EXECUCAO", "evento": "ALERTA_CRITICO", "mensagem": "Foram encontrados 4 itens com erro. Verificação humana necessária."}
+{"timestamp": "2026-09-10T06:13:59Z", "nivel": "INFO", "item_id": "EXECUCAO", "evento": "EXECUCAO_FINALIZADA", "mensagem": "Processados: 12; concluídos: 8; erros: 4; ignorados por idempotência: 0."}
+{"timestamp": "2026-09-10T06:14:36Z", "nivel": "INFO", "item_id": "EXECUCAO", "evento": "EXECUCAO_INICIADA", "mensagem": "Processamento da fila iniciado."}
+{"timestamp": "2026-09-10T06:14:36Z", "nivel": "INFO", "item_id": "EXECUCAO", "evento": "EXECUCAO_FINALIZADA", "mensagem": "Processados: 0; concluídos: 0; erros: 0; ignorados por idempotência: 8."}
+{"timestamp": "2026-09-10T06:30:39Z", "nivel": "INFO", "item_id": "EXECUCAO", "evento": "EXECUCAO_INICIADA", "mensagem": "Processamento da fila iniciado."}
+{"timestamp": "2026-09-10T06:30:39Z", "nivel": "INFO", "item_id": "IMP-001", "evento": "ITEM_INICIADO", "mensagem": "Processamento do item iniciado."}
+{"timestamp": "2026-09-10T06:30:39Z", "nivel": "INFO", "item_id": "IMP-001", "evento": "ITEM_CONCLUIDO", "mensagem": "Quantidades conferidas com sucesso."}
+{"timestamp": "2026-09-10T06:30:39Z", "nivel": "INFO", "item_id": "IMP-002", "evento": "ITEM_INICIADO", "mensagem": "Processamento do item iniciado."}
+{"timestamp": "2026-09-10T06:30:39Z", "nivel": "WARNING", "item_id": "IMP-002", "evento": "DIVERGENCIA_ENCONTRADA", "mensagem": "Divergência encontrada. Quantidade informada: 20; quantidade encontrada: 18."}
+{"timestamp": "2026-09-10T06:30:39Z", "nivel": "INFO", "item_id": "IMP-003", "evento": "ITEM_INICIADO", "mensagem": "Processamento do item iniciado."}
+{"timestamp": "2026-09-10T06:30:39Z", "nivel": "INFO", "item_id": "IMP-003", "evento": "ITEM_CONCLUIDO", "mensagem": "Quantidades conferidas com sucesso."}
+{"timestamp": "2026-09-10T06:30:39Z", "nivel": "INFO", "item_id": "IMP-004", "evento": "ITEM_INICIADO", "mensagem": "Processamento do item iniciado."}
+{"timestamp": "2026-09-10T06:30:39Z", "nivel": "INFO", "item_id": "IMP-004", "evento": "ITEM_CONCLUIDO", "mensagem": "Quantidades conferidas com sucesso."}
+{"timestamp": "2026-09-10T06:30:39Z", "nivel": "INFO", "item_id": "IMP-005", "evento": "ITEM_INICIADO", "mensagem": "Processamento do item iniciado."}
+{"timestamp": "2026-09-10T06:30:39Z", "nivel": "WARNING", "item_id": "IMP-005", "evento": "DIVERGENCIA_ENCONTRADA", "mensagem": "Divergência encontrada. Quantidade informada: 8; quantidade encontrada: 6."}
+{"timestamp": "2026-09-10T06:30:39Z", "nivel": "INFO", "item_id": "IMP-006", "evento": "ITEM_INICIADO", "mensagem": "Processamento do item iniciado."}
+{"timestamp": "2026-09-10T06:30:39Z", "nivel": "INFO", "item_id": "IMP-006", "evento": "ITEM_CONCLUIDO", "mensagem": "Quantidades conferidas com sucesso."}
+{"timestamp": "2026-09-10T06:30:39Z", "nivel": "INFO", "item_id": "IMP-007", "evento": "ITEM_INICIADO", "mensagem": "Processamento do item iniciado."}
+{"timestamp": "2026-09-10T06:30:39Z", "nivel": "INFO", "item_id": "IMP-007", "evento": "ITEM_CONCLUIDO", "mensagem": "Quantidades conferidas com sucesso."}
+{"timestamp": "2026-09-10T06:30:39Z", "nivel": "INFO", "item_id": "IMP-008", "evento": "ITEM_INICIADO", "mensagem": "Processamento do item iniciado."}
+{"timestamp": "2026-09-10T06:30:39Z", "nivel": "WARNING", "item_id": "IMP-008", "evento": "DIVERGENCIA_ENCONTRADA", "mensagem": "Divergência encontrada. Quantidade informada: 24; quantidade encontrada: 22."}
+{"timestamp": "2026-09-10T06:30:39Z", "nivel": "INFO", "item_id": "IMP-009", "evento": "ITEM_INICIADO", "mensagem": "Processamento do item iniciado."}
+{"timestamp": "2026-09-10T06:30:39Z", "nivel": "INFO", "item_id": "IMP-009", "evento": "ITEM_CONCLUIDO", "mensagem": "Quantidades conferidas com sucesso."}
+{"timestamp": "2026-09-10T06:30:39Z", "nivel": "INFO", "item_id": "IMP-010", "evento": "ITEM_INICIADO", "mensagem": "Processamento do item iniciado."}
+{"timestamp": "2026-09-10T06:30:39Z", "nivel": "WARNING", "item_id": "IMP-010", "evento": "DIVERGENCIA_ENCONTRADA", "mensagem": "Divergência encontrada. Quantidade informada: 18; quantidade encontrada: 17."}
+{"timestamp": "2026-09-10T06:30:39Z", "nivel": "INFO", "item_id": "IMP-011", "evento": "ITEM_INICIADO", "mensagem": "Processamento do item iniciado."}
+{"timestamp": "2026-09-10T06:30:39Z", "nivel": "INFO", "item_id": "IMP-011", "evento": "ITEM_CONCLUIDO", "mensagem": "Quantidades conferidas com sucesso."}
+{"timestamp": "2026-09-10T06:30:39Z", "nivel": "INFO", "item_id": "IMP-012", "evento": "ITEM_INICIADO", "mensagem": "Processamento do item iniciado."}
+{"timestamp": "2026-09-10T06:30:39Z", "nivel": "INFO", "item_id": "IMP-012", "evento": "ITEM_CONCLUIDO", "mensagem": "Quantidades conferidas com sucesso."}
+{"timestamp": "2026-09-10T06:30:39Z", "nivel": "CRITICAL", "item_id": "EXECUCAO", "evento": "ALERTA_CRITICO", "mensagem": "Foram encontrados 4 itens com erro. Verificação humana necessária."}
+{"timestamp": "2026-09-10T06:30:39Z", "nivel": "INFO", "item_id": "EXECUCAO", "evento": "EXECUCAO_FINALIZADA", "mensagem": "Processados: 12; concluídos: 8; erros: 4; ignorados por idempotência: 0."}
+{"timestamp": "2026-09-10T06:30:46Z", "nivel": "INFO", "item_id": "EXECUCAO", "evento": "EXECUCAO_INICIADA", "mensagem": "Processamento da fila iniciado."}
+{"timestamp": "2026-09-10T06:30:46Z", "nivel": "INFO", "item_id": "EXECUCAO", "evento": "EXECUCAO_FINALIZADA", "mensagem": "Processados: 0; concluídos: 0; erros: 0; ignorados por idempotência: 8."}

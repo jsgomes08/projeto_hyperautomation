@@ -1,0 +1,13 @@
+item_id,descricao,quantidade_informada,quantidade_encontrada,status,tentativas,mensagem
+IMP-001,Componente eletrônico A,10,10,concluido,1,Quantidades conferidas com sucesso.
+IMP-002,Componente eletrônico B,20,18,erro,1,Divergência encontrada. Quantidade informada: 20; quantidade encontrada: 18.
+IMP-003,Componente eletrônico C,5,5,concluido,1,Quantidades conferidas com sucesso.
+IMP-004,Componente eletrônico D,12,12,concluido,1,Quantidades conferidas com sucesso.
+IMP-005,Componente eletrônico E,8,6,erro,1,Divergência encontrada. Quantidade informada: 8; quantidade encontrada: 6.
+IMP-006,Componente eletrônico F,15,15,concluido,1,Quantidades conferidas com sucesso.
+IMP-007,Componente eletrônico G,30,30,concluido,1,Quantidades conferidas com sucesso.
+IMP-008,Componente eletrônico H,24,22,erro,1,Divergência encontrada. Quantidade informada: 24; quantidade encontrada: 22.
+IMP-009,Componente eletrônico I,9,9,concluido,1,Quantidades conferidas com sucesso.
+IMP-010,Componente eletrônico J,18,17,erro,1,Divergência encontrada. Quantidade informada: 18; quantidade encontrada: 17.
+IMP-011,Componente eletrônico K,7,7,concluido,1,Quantidades conferidas com sucesso.
+IMP-012,Componente eletrônico L,40,40,concluido,1,Quantidades conferidas com sucesso.
